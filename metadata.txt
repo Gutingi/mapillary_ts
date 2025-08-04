@@ -1,0 +1,27 @@
+[general]
+name=Mapillary Traffic Signs
+qgisMinimumVersion=3.34
+description=This plugin automatically applies Mapillary traffic sign SVG icons to point layers with a column containing the Mapillary traffic sign classification value.
+version=0.1.0
+author=Gutingi
+email=gutingi.dev@gmail.com
+
+about=The Mapillary Traffic Signs plugin provides an easy workflow for visualizing traffic sign data using official Mapillary icons. After downloading the icon package, the plugin lets you select a vector layer, choose the classification column, and automatically sets up SVG marker symbology using your local icons—without manual path setup.
+
+tracker=http://bugs
+repository=http://repo
+changelog=0.1.0 - Initial release: Automatic download of icons, easy layer/column selection, and one-click dynamic SVG symbology setup.
+
+# Recommended items:
+
+hasProcessingProvider=no
+tags=mapillary, traffic signs, svg, symbology, icons, python, vector, visualization
+
+homepage=http://homepage
+category=Vector
+icon=icon.png EDIT
+
+experimental=True
+deprecated=False
+
+server=False
