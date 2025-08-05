@@ -6,7 +6,7 @@ The **Mapillary Traffic Signs QGIS plugin** provides an easy workflow for visual
 
 **Note:** This plugin only works with data that includes a column classifying the traffic signs using the classification scheme by Mapillary.
 
-![main dialog](./interface.png)
+![main dialog](.docs/interface.png)
 
 ## Installation
 
