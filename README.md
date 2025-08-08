@@ -1,4 +1,4 @@
-# Mapillary Traffic Sign Icons Import for QGIS
+# Mapillary Traffic Sign Icons Import for QGIS Alpha 0.1.0
 
 > **Note:** This is *not* an official plugin by Mapillary, nor is it affiliated in any way with Mapillary.
 
